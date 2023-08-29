@@ -19,8 +19,8 @@ contract MyToken {
 
  // public variables here
     string public tokenName = "Bitcoin";
-    string public Abbrv = "Btc
-    uint public totalSupply = 10
+    string public Abbrv = "Btc";
+    uint public totalSupply = 10;
 
     // mapping variable here
     mapping(address => uint) public balances;
