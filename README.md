@@ -3,7 +3,9 @@ This is a basic Solidity smart contract for creating and managing a custom token
 
 ## Token Details
 Token Name: Bitcoin
+
 Token Abbreviation: Btc
+
 Total Supply: 10
 
 ## Usage
