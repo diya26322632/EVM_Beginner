@@ -5,14 +5,15 @@ This is a basic Solidity smart contract for creating and managing a custom token
 Token Name: Bitcoin
 Token Abbreviation: Btc
 Total Supply: 10
+
 ## Usage
-## Mint Tokens
+### Mint Tokens
 The mint function allows you to mint (create) new tokens and allocate them to a specific address.
 
 ### Function Signature:
 
 solidity
-Copy code
+
 function mint(address _address, uint _value) public
 _address: The address to which the new tokens will be allocated.
 _value: The amount of tokens to mint and allocate.
@@ -24,7 +25,7 @@ The burn function allows you to burn (destroy) tokens, reducing the total supply
 ### Function Signature:
 
 solidity
-Copy code
+
 function burn(address _address, uint _value) public
 _address: The address from which tokens will be burned.
 _value: The amount of tokens to burn.
