@@ -1,5 +1,5 @@
 # MyToken Solidity Smart Contract
-This is a basic Solidity smart contract for creating and managing a custom token called "MyToken". The contract includes functions for minting and burning tokens, as well as storing token details.
+This is a basic Solidity smart contract for creating and managing a custom token called "BTC_Token". The contract includes functions for minting and burning tokens, as well as storing token details.
 
 ## Token Details
 Token Name: Bitcoin
